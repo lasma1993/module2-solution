@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.menu {
+    text-align: center;
+}
+
+.box{
+    background-color: lightslategray;
+  
+    border: 5px solid black;
+    width: 400px;
+    margin-top: 50px;
+    float: left;
+    margin: 30px;
+}
+
+.h2-one, .h2-two, .h2-three{
+    float: right;
+    width: 150px;
+    margin-right: 0;
+    border-left: solid black 5px;
+    border-bottom: solid black 5px;
+    margin-bottom: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.h2-one{
+    background-color: coral;
+}
+.h2-two{
+    background-color:lightskyblue;
+}
+.h2-three{
+    background-color:teal;
+}
